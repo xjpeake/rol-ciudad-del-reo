@@ -1,7 +1,7 @@
 # CIUDAD DEL REO
 ## Reglamento
 
-Bienvenido a Ciudad del Reo — no como visitante, sino como otro despojo que el mar ha escupido en sus muelles. Aquí no hay salida, ni pasado que valga la pena recordar: solo los muros, las diez bandas que se disputan cada callejón y cada gota de agua, y la pregunta que todo el mundo se hace en cuanto despierta en la bodega de un barco que ya ha zarpado: ¿quién era yo, y qué voy a ser ahora? Este reglamento es la llave de esa ciudad, tanto para quien va a interpretar a uno de sus condenados como para el Director de Juego (DJ) que va a levantar sus murallas, sus pozos y sus bandas en la mesa. El nombre y el género del personaje son libres —el jugador puede elegir los suyos sin restricción, salvo que el DJ decida que la propia trama de la aventura ya se los ha impuesto de antemano—, porque en Ciudad del Reo lo único que de verdad se pierde al llegar es la memoria, nunca la identidad que se elige a partir de ahí.
+Bienvenido a Ciudad del Reo — no como visitante, sino como otro despojo que el mar ha escupido en sus muelles. Aquí no hay salida, ni pasado que valga la pena recordar: solo los muros, las trece bandas que se disputan cada callejón y cada gota de agua, y la pregunta que todo el mundo se hace en cuanto despierta en la bodega de un barco que ya ha zarpado: ¿quién era yo, y qué voy a ser ahora? Este reglamento es la llave de esa ciudad, tanto para quien va a interpretar a uno de sus condenados como para el Director de Juego (DJ) que va a levantar sus murallas, sus pozos y sus bandas en la mesa. El nombre y el género del personaje son libres —el jugador puede elegir los suyos sin restricción, salvo que el DJ decida que la propia trama de la aventura ya se los ha impuesto de antemano—, porque en Ciudad del Reo lo único que de verdad se pierde al llegar es la memoria, nunca la identidad que se elige a partir de ahí.
 
 > *Nota del compilador: este documento reúne el núcleo de reglas y ambientación de Ciudad del Reo, depurado a partir de dos manuscritos originales del proyecto (un borrador de 2009, más extenso, y una revisión de 2012 centrada en la aventura "El Inquisidor"). Forma parte de un conjunto de cuatro documentos: **Reglamento** (este archivo), **Callejero** (lugares y mapas de la ciudad), **Tablas de Referencia** y **Hoja de Personaje**. Aquí se recoge únicamente el núcleo genérico —ambientación, facciones, economía y sistema de juego— pensado para sostener cualquier aventura futura en Ciudad del Reo, dejando fuera la trama, las misiones y los PNJs propios de "El Inquisidor". Donde he tenido que pulir redacción o resolver una ambigüedad del original, lo señalo en una nota al pie de la sección correspondiente. Las Razas y Religiones, enumeradas hasta ahora solo como opciones dentro de Creación de Personajes, cuentan ya con su propio apartado (sección 4), con el mismo nivel de detalle que las Bandas o las Esencias Arcanas.*
 
@@ -16,9 +16,8 @@ Bienvenido a Ciudad del Reo — no como visitante, sino como otro despojo que el
 5. Economía: El Agua como Moneda
 6. Sistema de Juego
 7. La Magia: Las Esencias Arcanas
-8. Bestiario: Perfiles Básicos
-9. Sucesos Aleatorios
-10. Creación de Personajes
+8. Sucesos Aleatorios
+9. Creación de Personajes
 
 ---
 
@@ -28,7 +27,7 @@ Bienvenido a Ciudad del Reo — no como visitante, sino como otro despojo que el
 
 El sistema de juego es deliberadamente sencillo: todo se resuelve con un dado de 100 caras (1D100, o dos dados de 10 combinados) y un puñado de atributos, sin listas de habilidades ni tablas complejas. La ambientación, en cambio, es lo más elaborado del juego: una ciudad-prisión hermética, gobernada por bandas rivales, donde el agua ha sustituido al dinero y nadie recuerda cómo llegó allí.
 
-Este reglamento reúne el trasfondo del lugar, sus diez bandas, su economía y las reglas mecánicas completas. La geografía de la ciudad (el Callejero y sus mapas) se documenta aparte, en el documento *Callejero*. No incluye ninguna trama concreta — las aventuras (como "El Inquisidor") se documentan aparte, apoyándose en este núcleo común.
+Este reglamento reúne el trasfondo del lugar, sus trece bandas, su economía y las reglas mecánicas completas. La geografía de la ciudad (el Callejero y sus mapas) se documenta aparte, en el documento *Callejero*. No incluye ninguna trama concreta — las aventuras (como "El Inquisidor") se documentan aparte, apoyándose en este núcleo común.
 
 En la siguiente URL puede visualizarse la portada de La Ciudad del Reo: https://xjpeake.com/wp-content/uploads/2026/09/Ciudad-del-Reo-Portada-1-optimizada.jpg
 
@@ -52,15 +51,15 @@ A partir de ahí, los PJs quedan solos frente a la ciudad. El primer lugar al qu
 
 > *Nota de diseño: la escena original incluía dos ganchos narrativos concretos (el encuentro con una niña que pregunta por la fecha de nacimiento de los PJs, y una pelea entre Inquisidores y Negros) diseñados específicamente para desencadenar la trama de "El Inquisidor". Los he retirado de este núcleo genérico porque pertenecen a esa aventura en particular; cualquier aventura nueva puede aprovechar la misma llegada al Mercado y sustituir el gancho inicial por el que le convenga.*
 
-Desde este punto, los PJs son libres de moverse por la ciudad a su discreción. El DJ debería asegurarse de que consigan un mapa de la ciudad cuanto antes (ver el documento *Callejero*), y pedirles siempre que indiquen a qué lugar se dirigen y qué ruta siguen, ya que el trayecto puede deparar Sucesos Aleatorios (ver sección 9).
+Desde este punto, los PJs son libres de moverse por la ciudad a su discreción. El DJ debería asegurarse de que consigan un mapa de la ciudad cuanto antes (ver el documento *Callejero*), y pedirles siempre que indiquen a qué lugar se dirigen y qué ruta siguen, ya que el trayecto puede deparar Sucesos Aleatorios (ver sección 8).
 
 ---
 
 ## 3. LAS BANDAS
 
-En la ciudad conviven diez bandas principales. Ninguna domina el conjunto por completo, y sus rivalidades, alianzas y odios mutuos son el motor político de cualquier aventura en Ciudad del Reo. Un personaje sin banda no es nadie: sobrevivir en solitario es casi imposible.
+En la ciudad conviven trece bandas principales. Ninguna domina el conjunto por completo, y sus rivalidades, alianzas y odios mutuos son el motor político de cualquier aventura en Ciudad del Reo. Un personaje sin banda no es nadie: sobrevivir en solitario es casi imposible.
 
-Antes de repasar las diez bandas, conviene fijar el perfil de quien no pertenece a ninguna: el habitante corriente de la ciudad, sin filiación, sin bonificadores destacables y sin más protección que la que él mismo pueda procurarse.
+Antes de repasar las trece bandas, conviene fijar el perfil de quien no pertenece a ninguna: el habitante corriente de la ciudad, sin filiación, sin bonificadores destacables y sin más protección que la que él mismo pueda procurarse.
 
 **Perfil básico — Ciudadano**
 
@@ -72,7 +71,7 @@ Antes de repasar las diez bandas, conviene fijar el perfil de quien no pertenece
 
 Una de las bandas más antiguas y poderosas. Domina el noreste de la ciudad, desde la Plaza del Pozo de San Miguel hasta las murallas del este, y se reúne en la Antigua Iglesia de San Miguel, reconstruida tantas veces que ya nadie recuerda su emplazamiento original. Se rige por un consejo de tres hombres y sigue un credo religioso muy riguroso, que exige a quien quiera agua de su pozo. Son conocidos como los **cazadores de brujas**, por su odio a la magia y a la Hermandad Negra. Son aliados de los Inquisidores y de los Cuarenta Ladrones (a quienes usan para trabajos sucios), y persiguen a la Hermandad Negra, los Sarracenos y los Negros por motivos religiosos.
 
-Ningún Cazador de Brujas practica Esencia alguna, ni lo haría aunque pudiera: su credo considera la magia una corrupción, y cualquier don arcano descubierto entre sus filas se purgaría sin miramientos por orden del propio consejo de tres hombres.
+Ningún Cazador de Brujas practica Esencia alguna, ni lo haría aunque pudiera: su credo considera la magia una corrupción, y cualquier don arcano descubierto entre sus filas se purgaría sin miramientos por orden del propio consejo de tres hombres. Dominan el Viejo Barrio de San Miguel, en el norte de la ciudad, en torno a su iglesia y su pozo.
 
 **Perfil básico — Cazador de Brujas**
 
@@ -84,7 +83,7 @@ Ningún Cazador de Brujas practica Esencia alguna, ni lo haría aunque pudiera: 
 
 Controlan el centro de la ciudad, en torno a la Plaza del Juicio y su pozo, aunque su influencia ha ido menguando con el tiempo. Su sede actual es el **Nuevo Palacio Inquisitorial**, tras perder el antiguo palacio (hoy Palacio de la Bruja) a manos de la Hermandad Negra. Junto a la Orden de San Miguel, forman la fuerza que trata de mantener el orden en la mitad norte de la ciudad. Odian a las Brujas, las Alimañas, los Sarracenos, los Negros, los Sicarios y los Intocables, aunque tratan con cierta tolerancia a Sarracenos y Negros. Desconfían de los Cuarenta Ladrones, a quienes ven como aliados impuestos por la Orden.
 
-Los Inquisidores comparten con la Orden el mismo rechazo visceral hacia cualquier Esencia: para ellos, todo hechicero es sospechoso por definición, y las ejecuciones por brujería que aún se celebran en el Paseo de los Condenados bastan para que nadie practique magia abiertamente cerca de la Plaza del Juicio.
+Los Inquisidores comparten con la Orden el mismo rechazo visceral hacia cualquier Esencia: para ellos, todo hechicero es sospechoso por definición, y las ejecuciones por brujería que aún se celebran en el Paseo de los Condenados bastan para que nadie practique magia abiertamente cerca de la Plaza del Juicio. Dominan el Centro Inquisitorial, el corazón geográfico de la ciudad, en torno a la Plaza del Juicio.
 
 **Perfil básico — Inquisidor**
 
@@ -92,35 +91,23 @@ Los Inquisidores comparten con la Orden el mismo rechazo visceral hacia cualquie
 |---|---|---|---|---|---|---|---|---|
 | 10 | +10 | +10 | — | — | +10 | +20 | — | 50 |
 
-### Sarracenos
+### Orden de Bibliotecarios
 
-Dominan el Barrio Sarraceno, al suroeste de la ciudad, incluidos los Muelles del Sur. Se reúnen en la **Vieja Mezquita**, cuya cúpula se derrumbó hace tiempo pero cuya alta torre —la más alta de la ciudad— sigue en pie, usada tanto para la llamada a la oración como de molino. Mantienen buena relación con los Negros (con quienes comparten fe y oración), con la Hermandad Negra y con los Sicarios, y ocasionalmente tratan con los Cuarenta Ladrones. Odian a la Orden de San Miguel, a los Inquisidores y a las Alimañas, con quienes han luchado por el control del Pozo de la Peste.
+Una orden dedicada a la letra escrita en una ciudad que apenas la usa: manuscritos requisados, actas de disputas entre bandas, registros de nacimientos y defunciones que nadie más se molesta en llevar. Ocupan la Gran Biblioteca, un pequeño enclave dentro del Barrio Sarraceno, bajo cuya protección viven a cambio de tributo y de sus servicios como escribas y archiveros neutrales. Ninguna banda los ataca abiertamente: recurrir a sus registros, tarde o temprano, conviene a todos. Mantienen buena relación con los Sarracenos, que los protegen, y son consultados —con reticencia— incluso por Inquisidores y por la Orden del Arcángel San Miguel cuando necesitan constancia escrita de algo.
 
-Entre los Sarracenos, el estudio del cielo desde la torre de la Vieja Mezquita ha dado, de tanto en tanto, algún practicante de la Esencia Astral —ninguno tan reputado como para hacerse un nombre, pero suficientes para que la banda los tolere, e incluso los consulte antes de una decisión importante.
+Entre sus estanterías nunca faltan quienes buscan, más que preservar el pasado, recuperarlo: no es raro encontrar entre los Bibliotecarios a algún practicante de la Esencia Onírica, empeñado en rescatar de los sueños ajenos los fragmentos de memoria que el ritual del puerto borró a todos. Dominan, en exclusiva, el pequeño enclave de la Gran Biblioteca, dentro del territorio sarraceno, sin territorio propio más allá de sus muros.
 
-**Perfil básico — Sarraceno**
-
-| PV | At. | C | Ag. | D | Ld. | FV | M | B |
-|---|---|---|---|---|---|---|---|---|
-| 10 | — | — | — | +20 | +10 | +10 | — | 50 |
-
-### Negros
-
-Formada por todos los hombres y mujeres de piel oscura de la ciudad, viven hacinados en un edificio del Mercado donde regentan un burdel muy popular. La mayoría de las demás bandas los desprecia o los teme por supersticiones sobre el origen de su piel. Son aliados de los Sarracenos, con quienes comparten cada vez más su fe, sienten auténtica repulsión hacia los Intocables (hasta el punto de expulsar a quien los toque) y temen tanto a las Alimañas como a los Hijos de Össoro. Son humillados habitualmente por Inquisidores y la Orden de San Miguel, a quienes odian por ello. Mantienen tratos frecuentes con la Hermandad Negra y los Sicarios.
-
-Entre los Negros no se conoce ningún practicante propio de Esencia alguna, aunque muchos de sus rituales y cantos —heredados de una fe cada vez más compartida con los Sarracenos— insinúan un roce con lo arcano que nadie ha sabido, o querido, confirmar.
-
-**Perfil básico — Negro**
+**Perfil básico — Bibliotecario**
 
 | PV | At. | C | Ag. | D | Ld. | FV | M | B |
 |---|---|---|---|---|---|---|---|---|
-| 10 | +10 | +20 | — | — | — | — | — | 50 |
+| 10 | — | — | — | — | +20 | +20 | — | 50 |
 
 ### Hermandad Negra
 
 Conocidas por todos simplemente como **las Brujas**, es una banda exclusivamente femenina de hechiceras. Solo permiten a hombres vivir en su palacio si poseen el Don de la magia. Su creencia central gira en torno al número 1: creen que nacer en noviembre, y cuanto más cerca del día 11, otorga mayor poder mágico. La Hermana Negra Mayor —nacida, según se dice, a las once horas del once de noviembre de mil ciento once— es la más poderosa de todas. Habitan el **Palacio de la Bruja** (antiguo Palacio Inquisitorial, arrebatado a los Inquisidores), donde ocultan un pozo propio y una prisión interior para cautivos de bandas rivales. Son enemigas declaradas de la Orden de San Miguel y los Inquisidores, odian a los Sicarios, comercian con Alimañas, Sarracenos, Negros e Intocables, y temen sobre todas las cosas a los Hijos de Össoro.
 
-Ninguna banda vive tan pegada a las Esencias como la Hermandad Negra. Su credo entero gira en torno a lo que ellas llaman el Poder del Número 1 —la certeza de que nacer cerca del once de noviembre otorga un don mayor—, que no es sino su propia forma, nunca nombrada como tal, de practicar la Esencia Astral (ver sección 7, *El Poder del Número 1*). No todas las Hermanas se limitan a ella: se dice que en las profundidades del Palacio de la Bruja alguna practica la Esencia Vital en su vertiente más oscura, y que la propia Hermandad Negra Mayor busca sin descanso a quien domine la Esencia Onírica, capaz de asomarse a sueños que ni ella misma sabe leer.
+Ninguna banda vive tan pegada a las Esencias como la Hermandad Negra. Su credo entero gira en torno a lo que ellas llaman el Poder del Número 1 —la certeza de que nacer cerca del once de noviembre otorga un don mayor—, que no es sino su propia forma, nunca nombrada como tal, de practicar la Esencia Astral (ver sección 7, *El Poder del Número 1*). No todas las Hermanas se limitan a ella: se dice que en las profundidades del Palacio de la Bruja alguna practica la Esencia Vital en su vertiente más oscura, y que la propia Hermandad Negra Mayor busca sin descanso a quien domine la Esencia Onírica, capaz de asomarse a sueños que ni ella misma sabe leer. Dominan el Palacio de la Bruja y sus alrededores inmediatos, en el centro-sur de la ciudad.
 
 **Perfil básico — Bruja**
 
@@ -128,11 +115,47 @@ Ninguna banda vive tan pegada a las Esencias como la Hermandad Negra. Su credo e
 |---|---|---|---|---|---|---|---|---|
 | 10 | — | — | — | — | +10 | +20 | +20 | 50 |
 
+### Negros
+
+Formada por todos los hombres y mujeres de piel oscura de la ciudad, viven hacinados en un edificio del Mercado donde regentan un burdel muy popular. La mayoría de las demás bandas los desprecia o los teme por supersticiones sobre el origen de su piel. Son aliados de los Sarracenos, con quienes comparten cada vez más su fe, sienten auténtica repulsión hacia los Intocables (hasta el punto de expulsar a quien los toque) y temen tanto a las Alimañas como a los Hijos de Össoro. Son humillados habitualmente por Inquisidores y la Orden de San Miguel, a quienes odian por ello. Mantienen tratos frecuentes con la Hermandad Negra y los Sicarios.
+
+Entre los Negros no se conoce ningún practicante propio de Esencia alguna, aunque muchos de sus rituales y cantos —heredados de una fe cada vez más compartida con los Sarracenos— insinúan un roce con lo arcano que nadie ha sabido, o querido, confirmar. Dominan un único enclave, el Burdel *La Tierna*, junto al Mercado, en el noroeste de la ciudad.
+
+**Perfil básico — Negro**
+
+| PV | At. | C | Ag. | D | Ld. | FV | M | B |
+|---|---|---|---|---|---|---|---|---|
+| 10 | +10 | +20 | — | — | — | — | — | 50 |
+
+### Sarracenos
+
+Dominan el Barrio Sarraceno, al suroeste de la ciudad, incluidos los Muelles del Sur. Se reúnen en la **Vieja Mezquita**, cuya cúpula se derrumbó hace tiempo pero cuya alta torre —la más alta de la ciudad— sigue en pie, usada tanto para la llamada a la oración como de molino. Mantienen buena relación con los Negros (con quienes comparten fe y oración), con la Hermandad Negra y con los Sicarios, y ocasionalmente tratan con los Cuarenta Ladrones. Odian a la Orden de San Miguel, a los Inquisidores y a las Alimañas, con quienes han luchado por el control del Pozo de la Peste.
+
+Entre los Sarracenos, el estudio del cielo desde la torre de la Vieja Mezquita ha dado, de tanto en tanto, algún practicante de la Esencia Astral —ninguno tan reputado como para hacerse un nombre, pero suficientes para que la banda los tolere, e incluso los consulte antes de una decisión importante. Dominan el Barrio Sarraceno, al suroeste de la ciudad, incluidos los Muelles del Sur.
+
+**Perfil básico — Sarraceno**
+
+| PV | At. | C | Ag. | D | Ld. | FV | M | B |
+|---|---|---|---|---|---|---|---|---|
+| 10 | — | — | — | +20 | +10 | +10 | — | 50 |
+
+### Bufones
+
+Una compañía itinerante de actores, malabaristas y bufones que ha convertido el viejo Teatro en su único hogar fijo, un pequeño enclave enquistado en pleno corazón del territorio inquisitorial. Sobreviven representando comedias, sátiras y tragedias que ridiculizan —con cuidado calculado— a unas bandas y ensalzan a otras, según sopla el viento y según quién pague la función. Los Inquisidores los toleran porque canalizan el descontento de la calle en risas en lugar de cuchillos, aunque no dudan en callarlos si una obra se pasa de la raya. Mantienen tratos con Sarracenos, Negros y Los Cuarenta Ladrones, principales clientes de sus funciones privadas, y evitan cualquier roce directo con la Hermandad Negra, cuyas Hermanas rara vez ríen las bromas sobre ellas.
+
+No es raro que algún Bufón domine, sin proclamarlo jamás, la Esencia Etérica: leer la intención de un público antes de que aplauda o abuchee no es un simple oficio, sino un don que muchos de ellos afinan sin saber ponerle nombre. Dominan un único enclave, el Teatro, encajado dentro del territorio de los Inquisidores, del que dependen para poder seguir representando.
+
+**Perfil básico — Bufón**
+
+| PV | At. | C | Ag. | D | Ld. | FV | M | B |
+|---|---|---|---|---|---|---|---|---|
+| 10 | — | — | +10 | +20 | — | +10 | — | 50 |
+
 ### Los Cuarenta Ladrones
 
 Una banda reducida y exclusiva: solo cuarenta miembros, y cuando uno muere, otro ocupa su puesto. Se reúnen en la **Taberna del Ladrón**, al norte del Mercado. Son aliados fieles de la Orden de San Miguel, para quienes hacen trabajos sucios a cambio de favores, aunque mantienen también tratos con la Hermandad Negra, los Sarracenos, los Negros y los Sicarios. Evitan el enfrentamiento directo con casi todos, salvo con los Hijos de Össoro y los Inquisidores, de quienes prefieren mantenerse lejos.
 
-Los Cuarenta Ladrones no cuentan entre sus filas con ningún hechicero conocido —su oficio es de manos rápidas, no de dones arcanos—, aunque no es raro que un objeto imbuido de Esencia Elemental termine, tarde o temprano, pasando por la Taberna del Ladrón antes de encontrar comprador.
+Los Cuarenta Ladrones no cuentan entre sus filas con ningún hechicero conocido —su oficio es de manos rápidas, no de dones arcanos—, aunque no es raro que un objeto imbuido de Esencia Elemental termine, tarde o temprano, pasando por la Taberna del Ladrón antes de encontrar comprador. Dominan un pequeño enclave alrededor de la Taberna del Ladrón, encajado dentro del Viejo Barrio de San Miguel.
 
 **Perfil básico — Ladrón**
 
@@ -144,7 +167,7 @@ Los Cuarenta Ladrones no cuentan entre sus filas con ningún hechicero conocido 
 
 También llamados **los Asesinos**. No dominan territorio propio ni se reúnen nunca en un mismo lugar; muchos dudan siquiera de que existan, lo que solo alimenta su leyenda. Son, junto a los Hijos de Össoro, los mejores luchadores de la ciudad, y sus servicios pueden contratarse por una buena cantidad de agua. No usan nombres individuales y suelen ocultar el rostro. Son aliados de las Alimañas, perseguidos —y a la vez utilizados— por el resto de bandas, odian a la Hermandad Negra (aunque un buen trago de agua podría cambiar eso) y temen a los Hijos de Össoro, aunque rara vez rehúyen un duelo contra un elfo.
 
-Nadie ha confirmado jamás que un Sicario practique Esencia alguna, y ellos mismos alimentan el silencio: su leyenda no necesita magia para resultar temible.
+Nadie ha confirmado jamás que un Sicario practique Esencia alguna, y ellos mismos alimentan el silencio: su leyenda no necesita magia para resultar temible. No dominan territorio alguno: carecen de sede fija y se mueven por toda la ciudad allí donde su oficio los reclame.
 
 **Perfil básico — Sicario**
 
@@ -156,7 +179,7 @@ Nadie ha confirmado jamás que un Sicario practique Esencia alguna, y ellos mism
 
 Los únicos elfos de la ciudad, y la banda más reducida de todas. Fundada por Össoro, el primer elfo en llegar, muerto a manos de una bruja; sus tres hijos heredaron el liderazgo. Viven recluidos al sureste, junto al Barrio en Ruinas, evitando en apariencia los conflictos ajenos, aunque en la sombra ejercen una influencia considerable sobre el resto de la ciudad. Son temidos por todas las bandas y, pese a ello, no es raro que traten con Inquisidores y Sarracenos. Odian a las Alimañas y a los Sicarios. Son de los pocos habitantes de la ciudad que dominan la magia con soltura.
 
-Como en el resto de Mawol, entre los elfos la Esencia Elemental encuentra a sus practicantes más naturales: se sospecha que la propia residencia de los Hijos de Össoro, con sus contraventanas siempre cerradas, esconde objetos imbuidos que ninguna otra banda de la ciudad sabría siquiera reconocer.
+Como en el resto de Mawol, entre los elfos la Esencia Elemental encuentra a sus practicantes más naturales: se sospecha que la propia residencia de los Hijos de Össoro, con sus contraventanas siempre cerradas, esconde objetos imbuidos que ninguna otra banda de la ciudad sabría siquiera reconocer. Dominan un pequeño enclave junto a Las Ruinas, al sureste de la ciudad, en torno a su propia mansión.
 
 **Perfil básico — Elfo**
 
@@ -164,11 +187,29 @@ Como en el resto de Mawol, entre los elfos la Esencia Elemental encuentra a sus 
 |---|---|---|---|---|---|---|---|---|
 | 10 | +20 | — | +20 | +10 | +10 | +30 | +20 | 75 |
 
+### Renacidos
+
+Nadie sabe con certeza qué son, y nadie que se ha acercado a comprobarlo ha vuelto con una respuesta que merezca repetirse. Habitan el Cementerio y la Abadía en Ruinas, en las tierras altas del extremo sureste, donde la muralla se cierra sobre sí misma y ya no queda ciudad que la habite. Se dice que alguna vez fueron cadáveres arrojados al mar desde el Paseo de los Condenados, devueltos a un remedo de vida por manos que nadie ha identificado; de ahí su nombre, susurrado más que pronunciado. Ninguna banda disputa su territorio —ni siquiera los Intocables, sus vecinos más cercanos, se aventuran más allá del borde del Cementerio— y los pocos que dicen haber tratado con ellos aseguran que hablan poco, y que cuando lo hacen, no siempre recuerdan haber muerto.
+
+Si los Renacidos practican alguna Esencia, es la Vital, y la practican sobre sí mismos antes que sobre nadie: cada uno de ellos parece ser, de un modo u otro, el resultado de un ritual que nadie ha confesado haber lanzado. La inmensa mayoría son poco más que despojos reanimados —los **No Muertos**—, apenas capaces de mantenerse en pie; pero se susurra que entre las ruinas se oculta algo muy distinto, capaz de pasar por persona y de imponerse a cualquiera: el **Vampiro**, tan raro como temido incluso por sus propios congéneres. Dominan en exclusiva el Cementerio y la Abadía en Ruinas, en el extremo sureste de la ciudad, un territorio que ninguna otra banda se atreve a disputarles.
+
+**Perfil básico — Renacido (No Muerto)**
+
+| PV | At. | C | Ag. | D | Ld. | FV | M | B |
+|---|---|---|---|---|---|---|---|---|
+| 10 | — | — | — | — | — | — | — | 0 |
+
+**Perfil básico — Renacido (Vampiro)**
+
+| PV | At. | C | Ag. | D | Ld. | FV | M | B |
+|---|---|---|---|---|---|---|---|---|
+| 100 | +20 | — | — | — | +20 | +20 | +20 | 80 |
+
 ### Intocables
 
 Los despojos entre los despojos: habitan el Barrio en Ruinas, al sureste de la ciudad. Muchos son deformes o mutantes, viven de la rapiña y rara vez se aventuran fuera de sus ruinas, salvo en incursiones al Pozo de la Peste para robar agua a las Alimañas, con quienes mantienen una disputa constante. No tienen jerarquía y a menudo luchan entre sí, hasta el punto de que muchos discuten si merecen llamarse banda. "Intocable" es, además, un insulto de uso común en la ciudad. Temen a la Orden de San Miguel, a los Inquisidores y a los Hijos de Össoro, y a veces tratan con la Hermandad Negra, de quien dependen en cierta medida.
 
-Entre los Intocables corren los rumores más oscuros: sin jerarquía ni credo que los discipline, no faltan quienes susurran que alguno de ellos ha dado con la Antiesencia, la más proscrita de las prácticas —lo que, si fuera cierto, explicaría por qué incluso las demás bandas prefieren mantener las distancias con el Barrio en Ruinas.
+Entre los Intocables corren los rumores más oscuros: sin jerarquía ni credo que los discipline, no faltan quienes susurran que alguno de ellos ha dado con la Antiesencia, la más proscrita de las prácticas —lo que, si fuera cierto, explicaría por qué incluso las demás bandas prefieren mantener las distancias con el Barrio en Ruinas. Dominan Las Ruinas, un extenso barrio en el sureste de la ciudad.
 
 **Perfil básico — Intocable**
 
@@ -180,7 +221,7 @@ Entre los Intocables corren los rumores más oscuros: sin jerarquía ni credo qu
 
 Seres mitad humanos, mitad rata, de hasta un metro de altura, que emergieron un día desde el subsuelo por lo que hoy se conoce como el **Pozo de la Peste** —origen, según se dice, de una antigua epidemia—. Se susurra, aunque nadie lo ha demostrado jamás, que son las únicas que conocen cómo entrar y salir de la ciudad, a través de una red de túneles subterráneos que solo ellas recorren. Luchan y practican la magia tan bien como Sicarios o Brujas, únicas bandas con las que mantienen buena relación. Dominan en exclusiva la Plaza del Pozo de la Peste, que habitan desde las profundidades, y salen de noche a la superficie a matar y saquear a su antojo. Odian especialmente a los Inquisidores y a la Orden de San Miguel, que las consideran una creación demoníaca, y mantienen una guerra constante con los Intocables por el control del pozo. Sienten un pavor genuino hacia los elfos.
 
-Las Alimañas practican la magia tan bien como las Brujas, y ambas beben de la misma fuente: la Esencia Vital, la misma que maldice y a la vez corona el Pozo de la Peste que habitan. No es casualidad que quien sobrevive a beber de sus aguas obtenga un don mágico permanente (ver el documento *Callejero*, apartado *El Pozo de la Peste*): esa agua negra y fétida es, en esencia, Esencia Vital concentrada al límite.
+Las Alimañas practican la magia tan bien como las Brujas, y ambas beben de la misma fuente: la Esencia Vital, la misma que maldice y a la vez corona el Pozo de la Peste que habitan. No es casualidad que quien sobrevive a beber de sus aguas obtenga un don mágico permanente (ver el documento *Callejero*, apartado *El Pozo de la Peste*): esa agua negra y fétida es, en esencia, Esencia Vital concentrada al límite. Dominan en exclusiva el Pozo de la Peste y la red de túneles que se extiende bajo la ciudad, al sur, aunque su territorio no queda reflejado en la superficie.
 
 **Perfil básico — Alimaña**
 
@@ -188,13 +229,15 @@ Las Alimañas practican la magia tan bien como las Brujas, y ambas beben de la m
 |---|---|---|---|---|---|---|---|---|
 | 10 | +20 | — | +20 | +10 | — | — | +10 | 10 |
 
-*(El dominio territorial de las diez bandas está representado en el mapa del documento *Callejero*. Estos perfiles básicos son los de miembros anónimos de cada banda; para el escalado a capitanes y jefes, y para la tabla consolidada de los once perfiles, ver la sección 8: Bestiario.)*
+*(El dominio territorial de las trece bandas está representado en el mapa del documento *Callejero*. Estos perfiles básicos son los de miembros anónimos de cada banda — soldados, seguidores y demás gente sin nombre propio con la que los PJs se cruzarán constantemente — y no representan un desafío serio salvo en número; el PNJ con nombre propio siempre debería ser más peligroso.)*
+
+**Escalado para capitanes y jefes:** para crear un capitán, súmese +10 a Ataque, Corpulencia, Agilidad y Liderazgo del perfil base (además de +10 a Magia en el caso de Brujas y Elfos), y auméntense los PV hasta 50. Para un jefe de mayor rango, súmese +20 a esos mismos atributos y llévense los PV hasta 75, y así sucesivamente para jerarquías superiores. El Vampiro de los Renacidos ya funciona, de hecho, como un perfil de jefe hecho a medida: no hace falta aplicarle este escalado.
 
 ---
 
 ## 4. RAZA Y RELIGIÓN
 
-En Ciudad del Reo conviven gentes de toda raza y condición, arrastradas todas por el mismo puerto sin billete de vuelta; ninguna sangre es ajena a sus calles, aunque no todas reciben igual acogida de sus diez bandas. Y del mismo modo que se mezclan los cuerpos, se mezclan las almas: bajo los mismos muros conviven la fe más rigurosa y la superstición más íntima, el credo heredado y el que cada uno se inventa para no enloquecer sin memoria. Esta sección recoge las razas y religiones disponibles para los personajes de Ciudad del Reo —las mismas opciones que se eligen durante la Creación de Personajes (sección 10)—, describiendo con algo más de detalle qué implica cada una dentro de la ciudad.
+En Ciudad del Reo conviven gentes de toda raza y condición, arrastradas todas por el mismo puerto sin billete de vuelta; ninguna sangre es ajena a sus calles, aunque no todas reciben igual acogida de sus trece bandas. Y del mismo modo que se mezclan los cuerpos, se mezclan las almas: bajo los mismos muros conviven la fe más rigurosa y la superstición más íntima, el credo heredado y el que cada uno se inventa para no enloquecer sin memoria. Esta sección recoge las razas y religiones disponibles para los personajes de Ciudad del Reo —las mismas opciones que se eligen durante la Creación de Personajes (sección 9)—, describiendo con algo más de detalle qué implica cada una dentro de la ciudad.
 
 ### Razas
 
@@ -267,7 +310,7 @@ El DJ clasifica el precio de cualquier bien o servicio según estas cuatro categ
 
 Casi todos los habitantes de la ciudad llevan encima un vasito con capacidad de un Trago para poder comprar y vender al instante; los más pudientes cargan con una Jarra o una Pinta.
 
-*Suceso relacionado: si llueve (ver sección 9), toda la ciudad se vuelca a recoger agua, el Mercado se satura, los bienes escasean y todos los precios se duplican mientras dura el fenómeno.*
+*Suceso relacionado: si llueve (ver sección 8), toda la ciudad se vuelca a recoger agua, el Mercado se satura, los bienes escasean y todos los precios se duplican mientras dura el fenómeno.*
 
 ---
 
@@ -342,7 +385,7 @@ Situaciones favorables habituales, a modo de ejemplo (el DJ puede improvisar otr
 
 ### Movimiento sobre el mapa
 
-Los PJs deben indicar siempre a qué lugar se dirigen y qué ruta siguen sobre el mapa de la ciudad (ver el documento [*Callejero*](Ciudad_del_Reo_Callejero.md)). No es un mero trámite: el camino elegido determina qué territorios de banda atraviesan y qué Sucesos Aleatorios (sección 9) pueden encontrarse por el camino.
+Los PJs deben indicar siempre a qué lugar se dirigen y qué ruta siguen sobre el mapa de la ciudad (ver el documento [*Callejero*](Ciudad_del_Reo_Callejero.md)). No es un mero trámite: el camino elegido determina qué territorios de banda atraviesan y qué Sucesos Aleatorios (sección 8) pueden encontrarse por el camino.
 
 El *Callejero* es, en este sentido, tan indispensable como el propio Reglamento: reúne los lugares fijos de la ciudad y los tres mapas de referencia (el mapa señalado, el mapa de dominio de bandas y el mapa base sin marcar) que todo DJ necesita tener a mano antes de sentarse a la mesa. Sin él, decisiones tan cotidianas como cuánto tarda un PJ en cruzar la ciudad, qué banda controla la calle por la que pasa, o si un pozo está cerca o lejos, quedan sin apoyo visual — y en un juego donde el territorio y las rutas son parte activa de la narrativa, eso pesa. Se recomienda que el DJ tenga el *Callejero* abierto durante toda la partida, y que los PJs reciban su propia copia del mapa de lugares en cuanto lleguen al Mercado (ver sección 2, *Cómo llegan los personajes*). Además, se aconseja al DJ tener desplegado un mapa de Ciudad del Reo en todo momento durante la sesión de juego, ya sea impreso o en digital, de forma que tanto el DJ como los jugadores puedan señalar sobre él la ruta que van siguiendo en cada momento.
 
@@ -380,7 +423,7 @@ Un PJ que coloque un modificador de Magia en su hoja de personaje podrá usar ma
 
 Al asignar el primer punto de Magia, el jugador elige una Esencia (excepcionalmente, con permiso del DJ, más de una). El personaje empieza conociendo, de partida, todo lo que esa Esencia permite: no hay una lista cerrada de hechizos, sino cualquier efecto que encaje razonablemente con su naturaleza. Es responsabilidad conjunta del DJ y el jugador negociar, en ese momento, el alcance real de esa magia —qué tan lejos puede llegar, qué variante encarna el personaje— para que quede claro desde el principio qué se puede intentar y qué no.
 
-*(Esto se detalla en los pasos 1 y 2 de la sección 10, Creación de Personajes.)*
+*(Esto se detalla en los pasos 1 y 2 de la sección 9, Creación de Personajes.)*
 
 #### Lanzamiento de Hechizos
 
@@ -451,7 +494,7 @@ Esta Esencia rara vez exige un sacrificio material: su precio es tiempo y renunc
 
 La Hermandad Negra cree que el número 1 posee cualidades astrológicas poderosas, y que nacer en noviembre —cuanto más cerca del día 11, mejor— otorga el Don de la magia: su propia forma, nunca reconocida como tal, de interpretar la Esencia Astral. La Hermana Negra Mayor —nacida, según se dice, a las once horas del once de noviembre de mil ciento once— es la prueba viviente de esa creencia.
 
-Un PJ puede haber elegido la pertenencia *"una fecha de nacimiento"* al crear su personaje (ver sección 10, Creación de Personajes): su fecha será siempre el *once de noviembre*, aunque no lo recuerde hasta que una escena de la aventura se lo revele. En el momento en que el DJ decida que corresponde (normalmente a través de un encuentro con alguien vinculado a la Hermandad Negra que le explique el significado de la fecha), el PJ recupera este recuerdo: su atributo de Magia aumenta permanentemente en +30, y si no podía lanzar hechizos hasta entonces, a partir de ese momento sí puede hacerlo, conociendo automáticamente la Esencia Astral.
+Un PJ puede haber elegido la pertenencia *"una fecha de nacimiento"* al crear su personaje (ver sección 9, Creación de Personajes): su fecha será siempre el *once de noviembre*, aunque no lo recuerde hasta que una escena de la aventura se lo revele. En el momento en que el DJ decida que corresponde (normalmente a través de un encuentro con alguien vinculado a la Hermandad Negra que le explique el significado de la fecha), el PJ recupera este recuerdo: su atributo de Magia aumenta permanentemente en +30, y si no podía lanzar hechizos hasta entonces, a partir de ese momento sí puede hacerlo, conociendo automáticamente la Esencia Astral.
 
 ### Esencia Elemental
 
@@ -495,33 +538,7 @@ Más allá de secar para siempre la fuente que consume, practicar la Antiesencia
 
 ---
 
----
-
-## 8. BESTIARIO: PERFILES BÁSICOS
-
-Estos son los perfiles genéricos de los integrantes anónimos de cada banda — soldados, seguidores y demás gente sin nombre propio con la que los PJs se cruzarán constantemente. No representan un desafío serio salvo en número, y están pensados para no entorpecer el ritmo de juego frente a un PNJ con nombre propio, que siempre debería ser más peligroso.
-
-| Perfil | PV | At. | C | Ag. | D | Ld. | FV | M | B |
-|---|---|---|---|---|---|---|---|---|---|
-| Ciudadano | 10 | — | — | — | — | — | — | — | 50 |
-| Cazador de Brujas | 10 | — | +10 | +10 | +10 | — | +20 | — | 50 |
-| Inquisidor | 10 | +10 | +10 | — | — | +10 | +20 | — | 50 |
-| Sarraceno | 10 | — | — | — | +20 | +10 | +10 | — | 50 |
-| Negro | 10 | +10 | +20 | — | — | — | — | — | 50 |
-| Bruja | 10 | — | — | — | — | +10 | +20 | +20 | 50 |
-| Ladrón | 10 | +10 | — | +20 | +20 | — | — | — | 50 |
-| Sicario | 10 | +30 | — | +10 | +10 | — | — | — | 50 |
-| Elfo | 10 | +20 | — | +20 | +10 | +10 | +30 | +20 | 75 |
-| Intocable | 10 | — | +20 | — | — | — | — | +10 | 0 |
-| Alimaña | 10 | +20 | — | +20 | +10 | — | — | +10 | 10 |
-
-El perfil de Ciudadano representa a cualquier habitante sin banda. Los Cazadores de Brujas son los integrantes de la Orden del Arcángel San Miguel. Todos estos perfiles anónimos tienen únicamente 10 PV, precisamente para que no supongan una amenaza real frente a los PJs.
-
-**Escalado para capitanes y jefes:** para crear un capitán, súmese +10 a Ataque, Corpulencia, Agilidad y Liderazgo del perfil base (además de +10 a Magia en el caso de Brujas y Elfos), y auméntense los PV hasta 50. Para un jefe de mayor rango, súmese +20 a esos mismos atributos y llévense los PV hasta 75, y así sucesivamente para jerarquías superiores.
-
----
-
-## 9. SUCESOS ALEATORIOS
+## 8. SUCESOS ALEATORIOS
 
 Los Sucesos Aleatorios son situaciones imprevistas que el DJ puede introducir mientras los PJs se desplazan por la ciudad, sin que estén señalizadas en el mapa. Son enteramente opcionales y quedan a discreción del DJ; están pensados como herramientas genéricas, reutilizables en cualquier aventura:
 
@@ -533,7 +550,7 @@ Los Sucesos Aleatorios son situaciones imprevistas que el DJ puede introducir mi
 
 ---
 
-## 10. CREACIÓN DE PERSONAJES
+## 9. CREACIÓN DE PERSONAJES
 
 Todo jugador debe crear a su personaje, tanto si su PJ acaba de llegar a Ciudad del Reo como si ya lleva un tiempo en ella. Para ello, debe completar su [*Hoja de Personaje*](Ciudad_del_Reo_Hoja_de_Personaje.md). Con los siguientes pasos se diseña al personaje:
 

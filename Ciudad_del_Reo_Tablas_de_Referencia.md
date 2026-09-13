@@ -43,16 +43,22 @@
 | Perfil | PV | At. | C | Ag. | D | Ld. | FV | M | B |
 |---|---|---|---|---|---|---|---|---|---|
 | Ciudadano | 10 | — | — | — | — | — | — | — | 50 |
-| Cazador de Brujas | 10 | — | +10 | +10 | +10 | — | +20 | — | 50 |
+| Cazador de Brujas (Orden de San Miguel) | 10 | — | +10 | +10 | +10 | — | +20 | — | 50 |
 | Inquisidor | 10 | +10 | +10 | — | — | +10 | +20 | — | 50 |
-| Sarraceno | 10 | — | — | — | +20 | +10 | +10 | — | 50 |
+| Bibliotecario | 10 | — | — | — | — | +20 | +20 | — | 50 |
+| Bruja (Hermandad Negra) | 10 | — | — | — | — | +10 | +20 | +20 | 50 |
 | Negro | 10 | +10 | +20 | — | — | — | — | — | 50 |
-| Bruja | 10 | — | — | — | — | +10 | +20 | +20 | 50 |
-| Ladrón | 10 | +10 | — | +20 | +20 | — | — | — | 50 |
+| Sarraceno | 10 | — | — | — | +20 | +10 | +10 | — | 50 |
+| Bufón | 10 | — | — | +10 | +20 | — | +10 | — | 50 |
+| Ladrón (Cuarenta Ladrones) | 10 | +10 | — | +20 | +20 | — | — | — | 50 |
 | Sicario | 10 | +30 | — | +10 | +10 | — | — | — | 50 |
-| Elfo | 10 | +20 | — | +20 | +10 | +10 | +30 | +20 | 75 |
+| Elfo (Hijos de Össoro) | 10 | +20 | — | +20 | +10 | +10 | +30 | +20 | 75 |
+| Renacido (No Muerto) | 10 | — | — | — | — | — | — | — | 0 |
+| Renacido (Vampiro) | 100 | +20 | — | — | — | +20 | +20 | +20 | 80 |
 | Intocable | 10 | — | +20 | — | — | — | — | +10 | 0 |
 | Alimaña | 10 | +20 | — | +20 | +10 | — | — | +10 | 10 |
+
+*Escalado para capitanes y jefes:* para crear un capitán, súmese +10 a Ataque, Corpulencia, Agilidad y Liderazgo del perfil base (además de +10 a Magia en el caso de Brujas y Elfos), y auméntense los PV hasta 50. Para un jefe de mayor rango, súmese +20 a esos mismos atributos y llévense los PV hasta 75, y así sucesivamente. El Vampiro ya funciona como un perfil de jefe hecho a medida: no requiere este escalado.
 
 ---
 
